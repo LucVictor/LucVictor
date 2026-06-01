@@ -15,17 +15,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LUCVICTOR&theme=dark&hide_border=false)<br/>
 
 </td>
- <td>
-   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCVICTOR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
-  
+<td>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/LucVictor?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/LucVictor">
+</picture>
+
 </td>
 
 </table>
 </div>
-<td>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
-</td>
+
 
 ## 🌐 Socials:
 
